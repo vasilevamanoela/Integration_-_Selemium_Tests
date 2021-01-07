@@ -18,6 +18,7 @@ namespace POMHomework.Tests._01GoogleSearch
             Driver.WrappedDriver.Manage().Window.Maximize();
         }
 
-        // some rows locally
+        // some rows locally and in GitHub
+  
     }
 }
