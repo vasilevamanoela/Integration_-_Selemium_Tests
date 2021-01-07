@@ -16,9 +16,6 @@ namespace POMHomework.Tests._01GoogleSearch
             Builder = new Actions(Driver.WrappedDriver);
 
             Driver.WrappedDriver.Manage().Window.Maximize();
-        }
-
-        // some rows locally and in GitHub
-  
+        }  
     }
 }
